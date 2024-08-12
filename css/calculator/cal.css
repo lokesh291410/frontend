@@ -23,11 +23,12 @@ body {
     background-color: #252525;
     color: #fff;
     text-align: right;
-    padding-right: 10px;
-    padding-left: 10px;
+    /* padding-right: 10px;
+    padding-left: 10px; */
     font-size: 1.5em;
     border-radius: 5px;
     margin-bottom: 10px;
+    
 }
 
 .calculator-keys {
